@@ -1,0 +1,10 @@
+/home/jmoshi/jimmymoshi/tazamaa_1/src/main/java/tz/tazamaa_1/configuration/AppConfig.java
+/home/jmoshi/jimmymoshi/tazamaa_1/src/main/java/tz/tazamaa_1/Dao/AbstractDao.java
+/home/jmoshi/jimmymoshi/tazamaa_1/src/main/java/tz/tazamaa_1/configuration/HibernateConfiguration.java
+/home/jmoshi/jimmymoshi/tazamaa_1/src/main/java/tz/tazamaa_1/service/Employeeservice.java
+/home/jmoshi/jimmymoshi/tazamaa_1/src/main/java/tz/tazamaa_1/Dao/EmployeeDaoImp.java
+/home/jmoshi/jimmymoshi/tazamaa_1/src/main/java/tz/tazamaa_1/model/Employee.java
+/home/jmoshi/jimmymoshi/tazamaa_1/src/main/java/tz/tazamaa_1/configuration/AppInitializer.java
+/home/jmoshi/jimmymoshi/tazamaa_1/src/main/java/tz/tazamaa_1/service/EmployeeserviceImp.java
+/home/jmoshi/jimmymoshi/tazamaa_1/src/main/java/tz/tazamaa_1/controller/AppController.java
+/home/jmoshi/jimmymoshi/tazamaa_1/src/main/java/tz/tazamaa_1/Dao/EmployeeDao.java

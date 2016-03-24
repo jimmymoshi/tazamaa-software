@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="23" passed="23">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="3961" started-at="2016-03-23T12:14:42Z" finished-at="2016-03-23T12:14:46Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="3961" started-at="2016-03-23T12:14:42Z" finished-at="2016-03-23T12:14:46Z">
+      <class name="tz.tazamaa_1.Dao.EmployeeDaoImpTest">
+        <test-method status="PASS" signature="springTestContextBeforeTestClass()[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="springTestContextBeforeTestClass" is-config="true" duration-ms="1" started-at="2016-03-23T15:14:43Z" finished-at="2016-03-23T15:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestClass -->
+        <test-method status="PASS" signature="springTestContextPrepareTestInstance()[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="springTestContextPrepareTestInstance" is-config="true" duration-ms="2461" started-at="2016-03-23T15:14:43Z" depends-on-methods="org.springframework.test.context.testng.AbstractTestNGSpringContextTests.springTestContextBeforeTestClass" finished-at="2016-03-23T15:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextPrepareTestInstance -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="113" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tz.tazamaa_1.Dao.EmployeeDaoImpTest.deleteEmployeeByInvalidSsn()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="setUp" is-config="true" duration-ms="299" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="deleteEmployeeByInvalidSsn()[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="deleteEmployeeByInvalidSsn" duration-ms="203" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmployeeByInvalidSsn -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="10" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tz.tazamaa_1.Dao.EmployeeDaoImpTest.deleteEmployeeByInvalidSsn()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="3" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tz.tazamaa_1.Dao.EmployeeDaoImpTest.deleteEmployeeBySsn()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="setUp" is-config="true" duration-ms="17" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="deleteEmployeeBySsn()[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="deleteEmployeeBySsn" duration-ms="5" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmployeeBySsn -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="5" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tz.tazamaa_1.Dao.EmployeeDaoImpTest.deleteEmployeeBySsn()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="3" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tz.tazamaa_1.Dao.EmployeeDaoImpTest.findAllEmployees()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="setUp" is-config="true" duration-ms="12" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="findAllEmployees()[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="findAllEmployees" duration-ms="4" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findAllEmployees -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="2" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tz.tazamaa_1.Dao.EmployeeDaoImpTest.findAllEmployees()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="4" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tz.tazamaa_1.Dao.EmployeeDaoImpTest.findById()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="setUp" is-config="true" duration-ms="15" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="findById()[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="findById" duration-ms="14" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findById -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="3" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tz.tazamaa_1.Dao.EmployeeDaoImpTest.findById()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="4" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tz.tazamaa_1.Dao.EmployeeDaoImpTest.findEmployeeBySsn()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="setUp" is-config="true" duration-ms="18" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="findEmployeeBySsn()[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="findEmployeeBySsn" duration-ms="19" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findEmployeeBySsn -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="2" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tz.tazamaa_1.Dao.EmployeeDaoImpTest.findEmployeeBySsn()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="3" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tz.tazamaa_1.Dao.EmployeeDaoImpTest.saveEmployee()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="setUp" is-config="true" duration-ms="14" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="saveEmployee()[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="saveEmployee" duration-ms="37" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saveEmployee -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="3" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tz.tazamaa_1.Dao.EmployeeDaoImpTest.saveEmployee()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextAfterTestClass()[pri:0, instance:tz.tazamaa_1.Dao.EmployeeDaoImpTest@3fd7a715]" name="springTestContextAfterTestClass" is-config="true" duration-ms="1" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestClass -->
+      </class> <!-- tz.tazamaa_1.Dao.EmployeeDaoImpTest -->
+      <class name="tz.tazamaa_1.service.EmployeeserviceImplTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tz.tazamaa_1.service.EmployeeserviceImplTest@7f13d6e]" name="setUp" is-config="true" duration-ms="11" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="deleteEmployeeBySsn()[pri:0, instance:tz.tazamaa_1.service.EmployeeserviceImplTest@7f13d6e]" name="deleteEmployeeBySsn" duration-ms="1" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmployeeBySsn -->
+        <test-method status="PASS" signature="findAllEmployees()[pri:0, instance:tz.tazamaa_1.service.EmployeeserviceImplTest@7f13d6e]" name="findAllEmployees" duration-ms="1" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findAllEmployees -->
+        <test-method status="PASS" signature="findById()[pri:0, instance:tz.tazamaa_1.service.EmployeeserviceImplTest@7f13d6e]" name="findById" duration-ms="1" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findById -->
+        <test-method status="PASS" signature="findEmployeeBySsn()[pri:0, instance:tz.tazamaa_1.service.EmployeeserviceImplTest@7f13d6e]" name="findEmployeeBySsn" duration-ms="0" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findEmployeeBySsn -->
+        <test-method status="PASS" signature="isEmployeeSsnUnique()[pri:0, instance:tz.tazamaa_1.service.EmployeeserviceImplTest@7f13d6e]" name="isEmployeeSsnUnique" duration-ms="0" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isEmployeeSsnUnique -->
+        <test-method status="PASS" signature="saveEmployee()[pri:0, instance:tz.tazamaa_1.service.EmployeeserviceImplTest@7f13d6e]" name="saveEmployee" duration-ms="0" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saveEmployee -->
+        <test-method status="PASS" signature="updateEmployee()[pri:0, instance:tz.tazamaa_1.service.EmployeeserviceImplTest@7f13d6e]" name="updateEmployee" duration-ms="1" started-at="2016-03-23T15:14:46Z" finished-at="2016-03-23T15:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateEmployee -->
+      </class> <!-- tz.tazamaa_1.service.EmployeeserviceImplTest -->
+      <class name="tz.tazamaa_1.controller.AppControllerTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tz.tazamaa_1.controller.AppControllerTest@7494e528]" name="setUp" is-config="true" duration-ms="537" started-at="2016-03-23T15:14:43Z" finished-at="2016-03-23T15:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="deleteEmployee()[pri:0, instance:tz.tazamaa_1.controller.AppControllerTest@7494e528]" name="deleteEmployee" duration-ms="18" started-at="2016-03-23T15:14:43Z" finished-at="2016-03-23T15:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmployee -->
+        <test-method status="PASS" signature="editEmployee()[pri:0, instance:tz.tazamaa_1.controller.AppControllerTest@7494e528]" name="editEmployee" duration-ms="41" started-at="2016-03-23T15:14:43Z" finished-at="2016-03-23T15:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editEmployee -->
+        <test-method status="PASS" signature="listEmployees()[pri:0, instance:tz.tazamaa_1.controller.AppControllerTest@7494e528]" name="listEmployees" duration-ms="11" started-at="2016-03-23T15:14:43Z" finished-at="2016-03-23T15:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listEmployees -->
+        <test-method status="PASS" signature="newEmployee()[pri:0, instance:tz.tazamaa_1.controller.AppControllerTest@7494e528]" name="newEmployee" duration-ms="1" started-at="2016-03-23T15:14:43Z" finished-at="2016-03-23T15:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newEmployee -->
+        <test-method status="PASS" signature="saveEmployeeWithSuccess()[pri:0, instance:tz.tazamaa_1.controller.AppControllerTest@7494e528]" name="saveEmployeeWithSuccess" duration-ms="2" started-at="2016-03-23T15:14:43Z" finished-at="2016-03-23T15:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saveEmployeeWithSuccess -->
+        <test-method status="PASS" signature="saveEmployeeWithValidationError()[pri:0, instance:tz.tazamaa_1.controller.AppControllerTest@7494e528]" name="saveEmployeeWithValidationError" duration-ms="1" started-at="2016-03-23T15:14:43Z" finished-at="2016-03-23T15:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saveEmployeeWithValidationError -->
+        <test-method status="PASS" signature="saveEmployeeWithValidationErrorNonUniqueSSN()[pri:0, instance:tz.tazamaa_1.controller.AppControllerTest@7494e528]" name="saveEmployeeWithValidationErrorNonUniqueSSN" duration-ms="3" started-at="2016-03-23T15:14:43Z" finished-at="2016-03-23T15:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saveEmployeeWithValidationErrorNonUniqueSSN -->
+        <test-method status="PASS" signature="updateEmployeeWithSuccess()[pri:0, instance:tz.tazamaa_1.controller.AppControllerTest@7494e528]" name="updateEmployeeWithSuccess" duration-ms="2" started-at="2016-03-23T15:14:43Z" finished-at="2016-03-23T15:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateEmployeeWithSuccess -->
+        <test-method status="PASS" signature="updateEmployeeWithValidationError()[pri:0, instance:tz.tazamaa_1.controller.AppControllerTest@7494e528]" name="updateEmployeeWithValidationError" duration-ms="1" started-at="2016-03-23T15:14:43Z" finished-at="2016-03-23T15:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateEmployeeWithValidationError -->
+        <test-method status="PASS" signature="updateEmployeeWithValidationErrorNonUniqueSSN()[pri:0, instance:tz.tazamaa_1.controller.AppControllerTest@7494e528]" name="updateEmployeeWithValidationErrorNonUniqueSSN" duration-ms="1" started-at="2016-03-23T15:14:43Z" finished-at="2016-03-23T15:14:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateEmployeeWithValidationErrorNonUniqueSSN -->
+      </class> <!-- tz.tazamaa_1.controller.AppControllerTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
